@@ -1,5 +1,7 @@
 # BoletasApi
 
+Entra a la rama Master y bajala
+
 Debes ejecutar el backend con php artisan serve --port:8000
 y el front con php artisan serve --port:8001
 
